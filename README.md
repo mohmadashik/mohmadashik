@@ -21,7 +21,7 @@
 
 <h2 align="left">SKILLS:</h2>
 
-<b><h3 align="left">Programming Languages</h3></b>
+<b><h4 align="left">Programming Languages</h4></b>
 <table align="left">
   <tr>
     <td>
@@ -32,7 +32,7 @@
   </tr>
  </table>      
   <br><br><br>
-<b><h3 align="left">Backend Development</h3></b>
+<b><h4 align="left">Backend Development</h4></b>
   <table align="left">
   <tr>
     <td>        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
@@ -83,7 +83,7 @@
   </tr>
   </table>
     <br><br><br>
-<h3 align="left">Frontend Development:</h3>
+<h4 align="left">Frontend Development:</h4>
   <table align="left">
     <tr>
     <td>
