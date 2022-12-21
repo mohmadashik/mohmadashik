@@ -19,10 +19,10 @@
 <a href="https://www.hackerearth.com/@ashik_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashik_g" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">SKILLS:</h3>
+<h2 align="left">SKILLS:</h2>
 <p>
-<b><h4 align="left">Programming Languages:</h4></b>
-  <table align="left">
+ **Programming Languages**
+<table align="left">
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </td>
@@ -31,8 +31,23 @@
   </table>
 </p>
 <p>
-
-<h4 align="left">Frontend Development:</h4>
+  
+<b><h3 align="left">Backend Development:</h3></b>
+  <table align="left">
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.gith
+      ubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
+    <td>        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+</td>
+    <td>        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+</td>
+    <td>        <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </table>
+  
+<h3 align="left">Frontend Development:</h3>
   <table align="left">
     <td>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -47,21 +62,7 @@
   </table>
 </p>
   
-  
-<b><h4 align="left">Backend Development:</h4></b>
-  <table align="left">
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.gith
-      ubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
-    <td>        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </table>
+
   <b><h4 align="left">Programming Languages:</h4></b>
   <table align="left">
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
