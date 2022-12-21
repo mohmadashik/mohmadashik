@@ -43,7 +43,7 @@
 </td>
   </tr>
   </table>
-  
+    <br><br><br>
 <h3 align="left">Frontend Development:</h3>
   <table align="left">
     <tr>
@@ -59,8 +59,7 @@
 </td>
   </tr>
   </table>
-  
-
+    <br><br><br>
   <b><h4 align="left">Database</h4></b>
   <table align="left">
   <tr>
@@ -76,8 +75,7 @@
 </td>
 </tr>
 </table>  
-
-
+  <br><br><br>
   <b><h4 align="left">Devops</h4></b>
   <table align="left">
   <tr>
@@ -88,7 +86,7 @@
 
   </tr>
   </table>
-  </br>
+  <br><br><br>
   <b><h4 align="left">Frameworks</h4></b>
   <table align="left">
     <tr>
@@ -98,7 +96,7 @@
 </td>
 </tr>
 </table>
-<br>
+<br><br>
   <b><h4 align="left">Others</h4></b>
   <table align="left">
   <tr>
