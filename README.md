@@ -1,5 +1,5 @@
   
-<img src="https://github.com/mohmadashik/mohmadashik/blob/main/github%20profile.jpg?raw=true" alt="">
+<img src="https://github.com/mohmadashik/mohmadashik/blob/main/github%20banner.jpg?raw=true" alt="">
 
 - 🔭 I’m currently working on [Integrator](https://www.dckap.com/integrator/)
 
