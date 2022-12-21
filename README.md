@@ -29,8 +29,9 @@
   </td>  
   </table>
   
+<br>
 
-<b><h4 align="left">Frontend Technologies:</h4></b>
+<h4 align="left">Frontend Technologies:</h4>
   <table align="left">
     <td>
        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
