@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohmad Ashik</h1>
-<h3 align="center">A spark in python, Backend developer from India</h3>
+  
+<img src="https://github.com/mohmadashik/mohmadashik/blob/main/github%20profile.jpg?raw=true" alt="">
 
 - 🔭 I’m currently working on [Integrator](https://www.dckap.com/integrator/)
 
