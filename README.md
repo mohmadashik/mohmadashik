@@ -75,7 +75,8 @@
     <td>    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
 </td>
 </tr>
-</table>
+</table>  
+
 
   <b><h4 align="left">Devops</h4></b>
   <table align="left">
@@ -87,7 +88,7 @@
 
   </tr>
   </table>
-  
+  </br>
   <b><h4 align="left">Frameworks</h4></b>
   <table align="left">
     <tr>
