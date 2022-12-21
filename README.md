@@ -21,7 +21,7 @@
 
 <h2 align="left">SKILLS:</h2>
 
-**Programming Languages**
+<b><h3 align="left">Programming Languages</h3></b>
 <table align="left">
     <td>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -30,7 +30,7 @@
   </td>  
   </table>
   
-<b><h3 align="left">Backend Development:</h3></b>
+<b><h3 align="left">Backend Development</h3></b>
   <table align="left">
     <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.gith
       ubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
@@ -40,9 +40,6 @@
 </td>
     <td>        <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </table>
   
 <h3 align="left">Frontend Development:</h3>
@@ -60,14 +57,18 @@
   </table>
   
 
-  <b><h4 align="left">Programming Languages:</h4></b>
+  <b><h4 align="left">Database</h4></b>
   <table align="left">
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</td>
+    <td>        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</td>
+    <td>        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+</td>
+    <td>        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+</td>
+    <td>    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+</td>
     <td></td>
   </table>
   <b><h4 align="left">Programming Languages:</h4></b>
