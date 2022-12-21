@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="left">SKILLS:</h3>
+<p>
 <b><h4 align="left">Programming Languages:</h4></b>
   <table align="left">
     <td>
@@ -28,8 +29,8 @@
     <td>          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   </td>  
   </table>
-  
-<br>
+</p>
+<p>
 
 <h4 align="left">Frontend Technologies:</h4>
   <table align="left">
@@ -44,6 +45,7 @@
   <td>     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 </td>
   </table>
+</p>
   
   
 <b><h4 align="left">Programming Languages:</h4></b>
