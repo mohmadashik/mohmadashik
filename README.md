@@ -43,7 +43,6 @@
 </td>  
     <td> <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="graphql" width="40" height="40"/> </a> </td>
      
-    <td> <a href="https://docs.celersdssfsdfsssdfsdfsdfsdyq.dev/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="graphql" width="40" height="40"/> </a> </td>
   </tr>
   </table>
      <br><br><br>
