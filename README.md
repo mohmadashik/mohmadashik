@@ -5,7 +5,7 @@
 
 - 🌱 I’m also interested in **Datascience, Analytics and ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohmadashik](https://github.com/mohmadashik)
+- 👨‍💻 All my projects are available at [https://github.com/mohmadashik](https://github.com/mohmadashik)
 
 - 💬 Ask me about **python,backend and database**
 
