@@ -1,5 +1,4 @@
   
-<img src="https://github.com/mohmadashik/mohmadashik/blob/main/github%20banner.jpg?raw=true" alt="">
 
 - 🔭 I’m currently working at [Monarch Tractor](https://www.monarchtractor.com/)
 
