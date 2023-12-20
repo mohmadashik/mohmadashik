@@ -1,13 +1,13 @@
   
 <img src="https://github.com/mohmadashik/mohmadashik/blob/main/github%20banner.jpg?raw=true" alt="">
 
-- 🔭 I’m currently working on [Integrator](https://www.dckap.com/integrator/)
+- 🔭 I’m currently working at [Monarch Tractor](https://www.monarchtractor.com/)
 
-- 🌱 I’m also interested in **Datascience, Analytics and ML**
+- 🌱 I’m also interested in **Data Science, Analytics, and ML**
 
 - 👨‍💻 All my projects are available at [https://github.com/mohmadashik](https://github.com/mohmadashik)
 
-- 💬 Ask me about **python,backend and database**
+- 💬 Ask me about **Python, Fullstack Development, and Datascience**
 
 - 📫 You can reach me at **ashikg8coder@gmail.com**
 
