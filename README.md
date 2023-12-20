@@ -1,6 +1,6 @@
   
 
-- 🔭 I’m currently working at [Monarch Tractor](https://www.monarchtractor.com/)
+- 🔭 I’m currently working at [Monarch Tractor](https://www.monarchtractor.com/) as **Fullstack Developer**
 
 - 🌱 I’m also interested in **Data Science, Analytics, and ML**
 
