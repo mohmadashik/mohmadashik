@@ -31,19 +31,6 @@
   </tr>
  </table>      
   <br><br><br>
-<b><h4 align="left">Backend Development</h4></b>
-  <table align="left">
-  <tr>
-    <td>        <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-</td>  
-    <td> <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="graphql" width="40" height="40"/> </a> </td>
-     
-  </tr>
-  </table>
      <br><br><br>
   <b><h4 align="left">Database</h4></b>
   <table align="left">
@@ -55,9 +42,7 @@
     <td>        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </td>
     <td>        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-</td>
-    <td>    <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-</td>
+
 </tr>
 </table> 
 <br><br><br>
