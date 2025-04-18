@@ -1,109 +1,160 @@
-  
+# 👨‍💻 Mohmad Ashik M A
 
-- 🔭 I’m currently working at [Monarch Tractor](https://www.monarchtractor.com/) as **Fullstack Developer**
+### Software Engineer | Backend • Cloud • AI/ML  
+📍 Hitech City, Hyderabad - 500081  
+📞 +91 99121 40409  
+✉️ ashikg8coder@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/mohmadashik)  
+🌐 [GitHub](https://github.com/mohmadashik)
 
-- 🌱 I’m also interested in **Data Science, Analytics, and ML**
+---
 
-- 👨‍💻 All my projects are available at [https://github.com/mohmadashik](https://github.com/mohmadashik)
+🚀 Software Engineer with **3.5+ years of experience** in backend development, cloud-native architectures, and AI/ML integration. Adept at building **scalable**, **event-driven**, and **loosely coupled** systems using microservices and serverless patterns.  
 
-- 💬 Ask me about **Python, Fullstack Development, and Datascience**
+🔧 Proficient in API design, database optimization, and DevOps automation with a focus on **secure**, **resilient**, and **observable** systems. Passionate about leveraging **AI/ML** to solve real-world problems at scale.
 
-- 📫 You can reach me at **ashikg8coder@gmail.com**
+---
 
-- ⚡ Fun fact **I am also an actor and writer**
+## 💼 Work Experience
 
-<h3 align="left">Connect with me:</h3>
+### 💡 **Software Engineer** — *Monarch Tractor, Hyderabad*  
+📅 *Jun 2023 – Present*
+
+- Led the development of serverless and microservices-based architectures for high-impact dealer and customer platforms.
+- Built 40+ REST APIs, secured with JWT, OAuth, AWS Cognito, and RBAC.
+- Implemented event-driven AWS Lambda services inside custom embedded OS.
+- Delivered analytics using Python (NumPy, Pandas, Matplotlib) and created GenAI chatbot using HuggingFace + FastAPI.
+- Collaborated with cross-functional teams, mentored juniors, owned task planning, testing, and CI/CD.
+- Ensured production reliability via proactive monitoring and rapid incident resolution.
+
+---
+
+### 🧠 **Software Engineer** — *DCKAP, Chennai*  
+📅 *Apr 2022 – May 2023*
+
+- Developed secure and scalable REST APIs using Python (Flask/FastAPI).
+- Built CI/CD pipelines using Docker, GitHub Actions, and Terraform.
+- Performed real-time analytics and reporting with Pandas, NumPy, Matplotlib.
+- Ensured 80%+ test coverage with Pytest.
+
+---
+
+### 🎓 **Programmer Trainee** — *Cognizant, Chennai*  
+📅 *Nov 2021 – Apr 2022*
+
+- Completed industry-grade Python and data science training programs.
+
+---
+
+## 🧠 Skills
+
+### 🔤 Programming Languages  
+Python | Java | C++
+
+### 🧰 Backend & Frameworks  
+FastAPI | Flask | Django | Node.js | Spring | Hibernate | REST APIs | Websockets | MQTT | Celery | RabbitMQ | Kafka
+
+### 🗄️ Databases  
+MySQL | PostgreSQL | MongoDB | Redis | Oracle | SQLite | RDBMS | NoSQL
+
+### ☁️ Cloud & DevOps  
+AWS (Lambda, S3, API Gateway, Cognito, EC2, RDS, SQS, SNS, SES) | Serverless | Chalice | Docker | GitHub Actions | Terraform | Azure | GCP | Shell Scripting
+
+### 🧪 Testing & Tools  
+Pytest | Postman | Git | CI/CD Pipelines
+
+### 📊 Data & AI/ML  
+NumPy | Pandas | Matplotlib | Scikit-Learn | HuggingFace | GenAI | LLMs
+
+### 🌐 Frontend  
+React | HTML | CSS | Bootstrap | JavaScript | TypeScript
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Dealer View — *Monarch Tractor*  
+*Jan 2024 – Present*  
+- Built real-time serverless dealer dashboard.  
+- 50% query optimization using indexed MySQL tables.  
+- Developed secure, scalable 40+ REST APIs using RBAC, Cognito.
+
+### 🚜 Tractor Migration — *Monarch Tractor*  
+*Jun 2023 – Mar 2024*  
+- Developed microservices-based asynchronous system for tractor data migration.  
+- Built fault-tolerant systems with AWS Lambda & embedded services.  
+- Created GenAI-based chatbot using HuggingFace & PyTorch.
+
+### 🔄 DCKAP Integrator — *DCKAP*  
+*Apr 2022 – May 2023*  
+- Created secure REST APIs, CI/CD pipelines, and conducted robust analytics.  
+- Achieved 80%+ test coverage and 99% data accuracy.
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Mathematics, Physics & Computer Science**  
+*Sri Venkateswara University, Tirupati*  
+📅 *2018 – 2021* | 🎓 *CGPA: 8.7*
+
+**Intermediate (XII) – MPC**  
+*PCN Govt. Junior College, Nagari*  
+📅 *2016 – 2018* | 🏆 *Score: 964/1000 – State 7th Rank, District Topper*
+
+---
+
+## 🌍 Languages
+Urdu | Tamil | Telugu | English | Hindi
+
+---
+
+## 🔭 What I'm Up To
+
+- 🔭 Currently working at [**Monarch Tractor**](https://www.monarchtractor.com/) as a **Fullstack Developer**
+- 🌱 Exploring **AI/ML, GenAI, and Scalable Cloud Systems**
+- 💬 Ask me about **Python, Fullstack Development, AI/ML**
+- 📫 Reach me at: **ashikg8coder@gmail.com**
+- ⚡ Fun fact: **I am also an actor and writer**
+
+---
+
+## 🤝 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mohmadashik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmadashik" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ashik_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ashik_g" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohmadashik" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@ashik_g" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
+  </a>
 </p>
 
-<h2 align="left">SKILLS:</h2>
+---
 
-<b><h4 align="left">Programming Languages</h4></b>
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  </td>
-    <td>          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  </td>  
-  </tr>
- </table>      
-  <br><br><br>
-     <br><br><br>
-  <b><h4 align="left">Database</h4></b>
-  <table align="left">
-  <tr>
-    <td>        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+## 🛠️ Tools I Use
 
-</tr>
-</table> 
-<br><br><br>
-  <b><h4 align="left">Frameworks</h4></b>
-  <table align="left">
-    <tr>
-    <td>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-</td>
-    <td>    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-</td>
-</tr>
-</table>
-<br><br><br>
- 
-  <b><h4 align="left">Devops</h4></b>
-  <table align="left">
-  <tr>
-      <td>    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  </td>
-      <td>    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  </td>   
-     <td> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </td>
+### Programming Languages  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
-  </tr>
-  </table>
-    <br><br><br>
-    
-<h4 align="left">Frontend Development:</h4>
-  <table align="left">
-    <tr>
-    <td>
-       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+### Databases  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</p>
 
-  </td>
-    <td>    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</td>
-  <td>     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-</td>
-  </tr>
-  </table>
-<br><br><br>
-  <b><h4 align="left">Others</h4></b>
-  <table align="left">
-  <tr>
-    <td>        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</td>
-    <td>        <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-</td>
- </tr>
-  </table>
-  <br><br><br>
-  <br><br><br>
+### Frameworks  
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmadashik&show_icons=true&locale=en&layout=compact" alt="mohmadashik" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmadashik&show_icons=true&locale=en" alt="mohmadashik" /></p>
+_“Code smart. Deploy secure. Dream big.”_
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmadashik&" alt="mohmadashik" /></p>
