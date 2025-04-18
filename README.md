@@ -1,6 +1,6 @@
 # 👨‍💻 Mohmad Ashik M A
 
-### Software Engineer | Backend • Cloud • AI/ML  
+### Software Engineer | FullStack • Cloud • AI/ML  
 📍 Hitech City, Hyderabad - 500081  
 📞 +91 99121 40409  
 ✉️ ashikg8coder@gmail.com  
